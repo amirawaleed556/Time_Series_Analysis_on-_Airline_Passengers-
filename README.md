@@ -1,3 +1,4 @@
+![Uploading rd3.JPG…]()
 ![rd2](https://github.com/amirawaleed556/Time_Series_Analysis_on-_Airline_Passengers-/assets/70413663/d2ba0ecb-307f-4254-bdfc-a90952717bc1)
 ![rd1](https://github.com/amirawaleed556/Time_Series_Analysis_on-_Airline_Passengers-/assets/70413663/0496d925-bdb9-4b3b-a2d9-b7c23b3a5a28)# Time_Series_Analysis_on-_Airline_Passengers-
 Project was Time Series Analysis, used ARIMA method to build the model. Major steps involved were as follow :
